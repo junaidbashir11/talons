@@ -1,5 +1,5 @@
 from ai71 import AI71 
-apikey="ai71-api-e829e1a8-0d13-4094-9920-ddb9153ab7bb"
+apikey="apikey"
 
 
 client = AI71(apikey)
